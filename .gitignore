@@ -7,4 +7,6 @@
 *.iml
 out
 gen
-*jar
+web/WEB-INF/classes/
+web/WEB-INF/tld/
+*.jar

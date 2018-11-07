@@ -66,4 +66,7 @@ public class CityDao {
         }
         return list;
     }
+    public void insert(){
+
+    }
 }
